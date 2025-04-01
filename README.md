@@ -105,7 +105,7 @@ These insights are valuable for lenders to assess loan risks more accurately and
 - Deploy the model as an API for real-time loan risk assessment.
 
 ## Contributors
-- Sujata Sarkar (https://github.com/Sujata Sarkar)
+- [Sujata Sarkar](https://github.com/githubbigdat))
 
 ## License
 This project is licensed under the MIT License.
